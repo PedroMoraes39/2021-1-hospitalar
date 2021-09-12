@@ -44,18 +44,50 @@
 - [Sugestão de Fluxo de Trabalho](politicas/workflow)
 
 ---
-
 - Sprints
 
   - Time A
-    - [Sprint 0](sprints/TimeA/fechamento_sprint0)
-    - [Sprint 1](sprints/TimeA/fechamento_sprint1)
+    - Sprint 00
+      - [Abertura](/sprints/Time A/sprint0/abertura_sprint0_A)
+      - [Fechamento](/sprints/Time A/sprint0/fechamento_sprint0_A)
+    - Sprint 01
+      - [Abertura](/sprints/Time A/sprint1/abertura_sprint1_A)
+      - [Fechamento](/sprints/Time A/sprint1/fechamento_sprint1_A)
+    - Sprint 02
+      - [Abertura](/sprints/Time A/sprint2/abertura_sprint2_A)
+      - [Fechamento](/sprints/Time A/sprint2/fechamento_sprint2_A)
+    - Sprint 03
+      - [Abertura](/sprints/Time A/sprint3/abertura_sprint3_A)
+      - [Fechamento](/sprints/Time A/sprint3/fechamento_sprint3_A)
+    - Sprint 04
+      - [Abertura](/sprints/Time A/sprint4/abertura_sprint4_A)
+      - [Fechamento](/sprints/Time A/sprint4/fechamento_sprint4_A)
+    - Sprint 05
+      - [Abertura](/sprints/Time A/sprint5/abertura_sprint5_A)
+      - [Fechamento](/sprints/Time A/sprint5/fechamento_sprint5_A)
+    - Sprint 06
+      - [Abertura](/sprints/Time A/sprint6/abertura_sprint6_A)
+  
   - Time B
-    - [Sprint 0](sprints/TimeB/sprint0/sprint0_fechamento)
-    - [Sprint 1](sprints/TimeB/sprint1/sprint1_fechamento)
-    - [Sprint 2](sprints/TimeB/sprint2/sprint2_fechamento)
-    - [Sprint 3](sprints/TimeB/sprint3/sprint3_fechamento)
-    - [Sprint 4](sprints/TimeB/sprint4/sprint4_fechamento)
-    - [Sprint 5](sprints/TimeB/sprint5/sprint5_fechamento)
+    - Sprint 00
+      - [Abertura](/sprints/Time B/sprint0/abertura_sprint0)
+      - [Fechamento](/sprints/Time B/sprint0/sprint0_fechamento)
+    - Sprint 01
+      - [Abertura](/sprints/Time B/sprint1/abertura_sprint1)
+      - [Fechamento](/sprints/Time B/sprint1/sprint1_fechamento)
+    - Sprint 02
+      - [Abertura](/sprints/Time B/sprint2/abertura_sprint2)
+      - [Fechamento](/sprints/Time B/sprint2/sprint2_fechamento)
+    - Sprint 03
+      - [Abertura](/sprints/Time B/sprint3/sprint3_abertura)
+      - [Fechamento](/sprints/Time B/sprint3/sprint3_fechamento)
+    - Sprint 04
+      - [Abertura](/sprints/Time B/sprint4/sprint4_abertura)
+      - [Fechamento](/sprints/Time B/sprint4/sprint4_fechamento)
+    - Sprint 05
+      - [Abertura](/sprints/Time B/sprint5/abertura_sprint5)
+
   - Time C
-    - [Sprint 4](sprints/TimeC/sprint4/fechamento_sprint5)
+    - Sprint 05
+      - [Abertura](/sprints/Time C/sprint4/abertura_sprint5)
+      - [Fechamento](/sprints/Time C/sprint4/fechamento_sprint5)
