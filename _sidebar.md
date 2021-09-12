@@ -48,46 +48,46 @@
 
   - Time A
     - Sprint 00
-      - [Abertura](sprints/Time A/sprint0/abertura_sprint0_A)
-      - [Fechamento](sprints/Time A/sprint0/fechamento_sprint0_A)
+      - [Abertura](/sprints/Time A/sprint0/abertura_sprint0_A)
+      - [Fechamento](/sprints/Time A/sprint0/fechamento_sprint0_A)
     - Sprint 01
-      - [Abertura](sprints/Time A/sprint1/abertura_sprint1_A)
-      - [Fechamento](sprints/Time A/sprint1/fechamento_sprint1_A)
+      - [Abertura](/sprints/Time A/sprint1/abertura_sprint1_A)
+      - [Fechamento](/sprints/Time A/sprint1/fechamento_sprint1_A)
     - Sprint 02
-      - [Abertura](sprints/Time A/sprint2/abertura_sprint2_A)
-      - [Fechamento](sprints/Time A/sprint2/fechamento_sprint2_A)
+      - [Abertura](/sprints/Time A/sprint2/abertura_sprint2_A)
+      - [Fechamento](/sprints/Time A/sprint2/fechamento_sprint2_A)
     - Sprint 03
-      - [Abertura](sprints/Time A/sprint3/abertura_sprint3_A)
-      - [Fechamento](sprints/Time A/sprint3/fechamento_sprint3_A)
+      - [Abertura](/sprints/Time A/sprint3/abertura_sprint3_A)
+      - [Fechamento](/sprints/Time A/sprint3/fechamento_sprint3_A)
     - Sprint 04
-      - [Abertura](sprints/Time A/sprint4/abertura_sprint4_A)
-      - [Fechamento](sprints/Time A/sprint4/fechamento_sprint4_A)
+      - [Abertura](/sprints/Time A/sprint4/abertura_sprint4_A)
+      - [Fechamento](/sprints/Time A/sprint4/fechamento_sprint4_A)
     - Sprint 05
-      - [Abertura](sprints/Time A/sprint5/abertura_sprint5_A)
-      - [Fechamento](sprints/Time A/sprint5/fechamento_sprint5_A)
+      - [Abertura](/sprints/Time A/sprint5/abertura_sprint5_A)
+      - [Fechamento](/sprints/Time A/sprint5/fechamento_sprint5_A)
     - Sprint 06
-      - [Abertura](sprints/Time A/sprint6/abertura_sprint6_A)
+      - [Abertura](/sprints/Time A/sprint6/abertura_sprint6_A)
   
   - Time B
     - Sprint 00
-      - [Abertura](sprints/Time B/sprint0/abertura_sprint0)
-      - [Fechamento](sprints/Time B/sprint0/sprint0_fechamento)
+      - [Abertura](/sprints/Time B/sprint0/abertura_sprint0)
+      - [Fechamento](/sprints/Time B/sprint0/sprint0_fechamento)
     - Sprint 01
-      - [Abertura](sprints/Time B/sprint1/abertura_sprint1)
-      - [Fechamento](sprints/Time B/sprint1/sprint1_fechamento)
+      - [Abertura](/sprints/Time B/sprint1/abertura_sprint1)
+      - [Fechamento](/sprints/Time B/sprint1/sprint1_fechamento)
     - Sprint 02
-      - [Abertura](sprints/Time B/sprint2/abertura_sprint2)
-      - [Fechamento](sprints/Time B/sprint2/sprint2_fechamento)
+      - [Abertura](/sprints/Time B/sprint2/abertura_sprint2)
+      - [Fechamento](/sprints/Time B/sprint2/sprint2_fechamento)
     - Sprint 03
-      - [Abertura](sprints/Time B/sprint3/sprint3_abertura)
-      - [Fechamento](sprints/Time B/sprint3/sprint3_fechamento)
+      - [Abertura](/sprints/Time B/sprint3/sprint3_abertura)
+      - [Fechamento](/sprints/Time B/sprint3/sprint3_fechamento)
     - Sprint 04
-      - [Abertura](sprints/Time B/sprint4/sprint4_abertura)
-      - [Fechamento](sprints/Time B/sprint4/sprint4_fechamento)
+      - [Abertura](/sprints/Time B/sprint4/sprint4_abertura)
+      - [Fechamento](/sprints/Time B/sprint4/sprint4_fechamento)
     - Sprint 05
-      - [Abertura](sprints/Time B/sprint5/abertura_sprint5)
+      - [Abertura](/sprints/Time B/sprint5/abertura_sprint5)
 
   - Time C
     - Sprint 05
-      - [Abertura](sprints/Time C/sprint4/abertura_sprint5)
-      - [Fechamento](sprints/Time C/sprint4/fechamento_sprint5)
+      - [Abertura](/sprints/Time C/sprint4/abertura_sprint5)
+      - [Fechamento](/sprints/Time C/sprint4/fechamento_sprint5)
